@@ -1,1 +1,1 @@
-Sitemap: https://rstudio.github.io/cheatsheets/sitemap.xml
+Sitemap: https://Biosteve.github.io/Cheatsheet/sitemap.xml
